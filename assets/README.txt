@@ -1,0 +1,1 @@
+Place approved ACM and VIT-AP logo image assets here if replacing the text-based header marks.
